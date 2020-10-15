@@ -1,0 +1,46 @@
+{
+	"title": "BCF",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "Vanessa Kuang"
+		},
+    "issuer": {
+			"type": "string",
+			"description": "Binance Charity 币安慈善"
+		},
+    "ngo": {
+			"type": "string",
+			"description": "麦田公益"
+		},
+    "time": {
+			"type": "string",
+			"description": "2020/10/20"
+		},
+    "location": {
+			"type": "string",
+			"description": "Hainan海南"
+		},
+    "category": {
+			"type": "string",
+			"description": "性教育"
+		},
+    "project": {
+			"type": "string",
+			"description": "健康课堂"
+		},
+    "contribution": {
+			"type": "string",
+			"description": "为山区儿童提供性教育的英雄：因为您，500个孩子认识了自己，相信自己值得尊重和被爱"
+		},
+		"description": {
+			"type": "string",
+			"description": ""
+		},
+		"image": {
+			"type": "string",
+			"description": "https://raw.githubusercontent.com/williamzng/bcf_assets/main/timg.jpg"
+		}
+	}
+}
