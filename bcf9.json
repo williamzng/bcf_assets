@@ -40,7 +40,7 @@
 		},
 		"image": {
 			"type": "string",
-			"description": "https://raw.githubusercontent.com/williamzng/bcf_assets/main/square-9.jpg"
+			"description": "https://raw.githubusercontent.com/williamzng/bcf_assets/main/square-9.png"
 		}
 	}
 }
