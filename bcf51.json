@@ -4,7 +4,7 @@
 	"properties": {
 		"name": {
 			"type": "string",
-			"description": "Yi He"
+			"description": "夏国萍"
 		},
     "issuer": {
 			"type": "string",
@@ -24,15 +24,15 @@
 		},
     "category": {
 			"type": "string",
-			"description": "性教育"
+			"description": "性教育 Sex Edu"
 		},
     "project": {
 			"type": "string",
-			"description": "健康课堂"
+			"description": "健康课堂 Healthcare Class"
 		},
     "contribution": {
 			"type": "string",
-			"description": "为山区儿童提供性教育的英雄：因为您，500个孩子认识了自己，相信自己值得尊重和被爱"
+			"description": "为山区儿童提供健康教育的英雄：因为您，500个孩子认识了自己，相信自己值得尊重和被爱 Thank you Hero. Thanks to your support, 500 children learnt about themselves and love"
 		},
 		"description": {
 			"type": "string",
